@@ -1,5 +1,4 @@
-var jwt = require('jsonwebtoken')
-
+var jwt  = require('jsonwebtoken');
 var SEED = require('../config/config').SEED;
 
 // Verificar Token
